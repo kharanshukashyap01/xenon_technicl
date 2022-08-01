@@ -98,4 +98,18 @@ The complete ecommerce script with Paypal integration. Some of the features are 
  -- Product Database.
  -- Easy to order system.
 
- 
+Output:
+
+![home page](https://user-images.githubusercontent.com/110261607/182257229-0e587c79-8222-4ce0-abf8-464f2b8ed94b.png)
+
+![login page](https://user-images.githubusercontent.com/110261607/182257289-6c5a5ed4-1e10-4546-946e-350e9ec5e72d.png)
+
+![register page](https://user-images.githubusercontent.com/110261607/182257333-79eb9a26-35ec-4f11-a3b9-f22f1ae44af4.png)
+
+![logout](https://user-images.githubusercontent.com/110261607/182257373-27eace4a-3c60-418c-9894-3c170f289c0c.png)
+![contact us](https://user-images.githubusercontent.com/110261607/182257440-52ab167b-7d8a-4e09-82ee-63fad59e4762.png)
+![products pages](https://user-images.githubusercontent.com/110261607/182257409-94a5b8e7-ea53-4b76-8824-c232ef56415d.png)
+
+![cart](https://user-images.githubusercontent.com/110261607/182257469-5d12f4fe-a299-4137-98c4-5423ce9e2125.png)
+
+![checkout page](https://user-images.githubusercontent.com/110261607/182257508-2d9c39ee-f65b-48d9-b03c-da0d40de2f42.png)
