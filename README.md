@@ -105,17 +105,18 @@ Home Page
 Login page
 ![login page](https://user-images.githubusercontent.com/110261607/182258073-d88d2a9f-cc3e-492d-b6f4-e55774945963.png)
 
-Register page
+Registration page
 ![register page](https://user-images.githubusercontent.com/110261607/182257333-79eb9a26-35ec-4f11-a3b9-f22f1ae44af4.png)
 
 Logout page
-![logout](https://user-images.githubusercontent.com/110261607/182257373-27eace4a-3c60-418c-9894-3c170f289c0c.png)
+![logout](https://user-images.githubusercontent.com/110261607/182261236-c28a3961-0246-4b7d-be46-c0e6d1f035db.png)
 
-Contact page
+
+Contact us page
 ![contact us](https://user-images.githubusercontent.com/110261607/182257440-52ab167b-7d8a-4e09-82ee-63fad59e4762.png)
 
 Products page
-![products pages](https://user-images.githubusercontent.com/110261607/182257409-94a5b8e7-ea53-4b76-8824-c232ef56415d.png)
+![products pages](https://user-images.githubusercontent.com/110261607/182261287-3e575d83-2a40-41cb-81da-2596d51895c4.png)
 
 Cart page
 ![cart](https://user-images.githubusercontent.com/110261607/182257469-5d12f4fe-a299-4137-98c4-5423ce9e2125.png)
