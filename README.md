@@ -97,6 +97,17 @@ The complete ecommerce script with Paypal integration. Some of the features are 
  -- SEO Friendly URL.
  -- Product Database.
  -- Easy to order system.
+ 
+ 
+ Work Flow of Website
+ Download WAMP ---> Install on the system
+ https://sourceforge.net/projects/wampserver/
+ 
+ Steps to use WAMP:
+ Start the WAMP server
+ The browser will search for index.PHP, if the file is found the output will be displayed otherwise and error is thrown. 
+ The homepage of website will appear and we can navigate the site for further requirement.
+ 
 
 Output:
 Home Page
